@@ -48,6 +48,11 @@ code,pre {
     padding: 1rem;
 }
 
+.hidden {
+    visibility: hidden;
+    height: 0;
+}
+
 //?NAVBAR//////
 .navbar {
     background-color: $color-primary;
